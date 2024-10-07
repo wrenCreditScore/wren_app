@@ -1,0 +1,675 @@
+[
+	{
+		"date": 1725451978644,
+		"owner": "7z7Q3UH4cMxSNDTATsQcC34rr4MVA9ydqpbeqnU4q7ba",
+		"addressSystem": "solana",
+		"fetcherReports": [
+			{
+				"id": "wallet-tokens-solana",
+				"status": "succeeded",
+				"duration": 3534
+			},
+			{
+				"id": "wallet-tokens-solana-native",
+				"status": "succeeded",
+				"duration": 496
+			},
+			{
+				"id": "wallet-tokens-solana-nfts-underlyings",
+				"status": "succeeded",
+				"duration": 2057
+			},
+			{
+				"id": "native-stake-solana",
+				"status": "succeeded",
+				"duration": 361
+			},
+			{
+				"id": "tensor-bids",
+				"status": "succeeded",
+				"duration": 361
+			},
+			{
+				"id": "tensor-locks",
+				"status": "succeeded",
+				"duration": 414
+			},
+			{
+				"id": "tensor-airdrop-power-users",
+				"status": "succeeded",
+				"duration": 90
+			},
+			{
+				"id": "tensor-shared-escrow",
+				"status": "succeeded",
+				"duration": 453
+			},
+			{
+				"id": "marginfi-deposits",
+				"status": "succeeded",
+				"duration": 360
+			},
+			{
+				"id": "marinade-tickets",
+				"status": "succeeded",
+				"duration": 358
+			},
+			{
+				"id": "marinade-rewards-s1",
+				"status": "succeeded",
+				"duration": 449
+			},
+			{
+				"id": "save-obligations",
+				"status": "succeeded",
+				"duration": 782
+			},
+			{
+				"id": "save-rewards",
+				"status": "succeeded",
+				"duration": 788
+			},
+			{
+				"id": "raydium-staking",
+				"status": "succeeded",
+				"duration": 449
+			},
+			{
+				"id": "raydium-farms",
+				"status": "succeeded",
+				"duration": 478
+			},
+			{
+				"id": "drift-deposits",
+				"status": "succeeded",
+				"duration": 692
+			},
+			{
+				"id": "mango-collateral",
+				"status": "succeeded",
+				"duration": 382
+			},
+			{
+				"id": "yieldfan-boost",
+				"status": "succeeded",
+				"duration": 381
+			},
+			{
+				"id": "kamino-deposits",
+				"status": "succeeded",
+				"duration": 554
+			},
+			{
+				"id": "kamino-farms",
+				"status": "succeeded",
+				"duration": 481
+			},
+			{
+				"id": "kamino-airdrop-s1",
+				"status": "succeeded",
+				"duration": 95
+			},
+			{
+				"id": "hawksight-positions",
+				"status": "succeeded",
+				"duration": 996
+			},
+			{
+				"id": "realms-deposits",
+				"status": "succeeded",
+				"duration": 673
+			},
+			{
+				"id": "flexlend-deposits",
+				"status": "succeeded",
+				"duration": 439
+			},
+			{
+				"id": "flexlend-lift",
+				"status": "succeeded",
+				"duration": 437
+			},
+			{
+				"id": "jupiter-exchange-perpetual",
+				"status": "succeeded",
+				"duration": 373
+			},
+			{
+				"id": "jupiter-exchange-value-average",
+				"status": "succeeded",
+				"duration": 373
+			},
+			{
+				"id": "jupiter-exchange-limit",
+				"status": "succeeded",
+				"duration": 374
+			},
+			{
+				"id": "jupiter-exchange-dca",
+				"status": "succeeded",
+				"duration": 373
+			},
+			{
+				"id": "jupiter-governance-vote",
+				"status": "succeeded",
+				"duration": 435
+			},
+			{
+				"id": "jupiter-governance-asr-1",
+				"status": "succeeded",
+				"duration": 92
+			},
+			{
+				"id": "lfg-jup-s1",
+				"status": "succeeded",
+				"duration": 92
+			},
+			{
+				"id": "lfg-zeus",
+				"status": "succeeded",
+				"duration": 92
+			},
+			{
+				"id": "lfg-tensor",
+				"status": "succeeded",
+				"duration": 677
+			},
+			{
+				"id": "lfg-sharky",
+				"status": "succeeded",
+				"duration": 90
+			},
+			{
+				"id": "lfg-uprock",
+				"status": "succeeded",
+				"duration": 90
+			},
+			{
+				"id": "kamino-s2",
+				"status": "succeeded",
+				"duration": 90
+			},
+			{
+				"id": "zeta-deposits",
+				"status": "succeeded",
+				"duration": 618
+			},
+			{
+				"id": "zeta-airdrop",
+				"status": "succeeded",
+				"duration": 1035
+			},
+			{
+				"id": "zeta-staking",
+				"status": "succeeded",
+				"duration": 431
+			},
+			{
+				"id": "01-deposits",
+				"status": "succeeded",
+				"duration": 427
+			},
+			{
+				"id": "goosefx-pools",
+				"status": "succeeded",
+				"duration": 364
+			},
+			{
+				"id": "goosefx-staking",
+				"status": "succeeded",
+				"duration": 365
+			},
+			{
+				"id": "rain-pools",
+				"status": "succeeded",
+				"duration": 426
+			},
+			{
+				"id": "rain-loans",
+				"status": "succeeded",
+				"duration": 517
+			},
+			{
+				"id": "lifinity-locker",
+				"status": "succeeded",
+				"duration": 363
+			},
+			{
+				"id": "port-obligations",
+				"status": "succeeded",
+				"duration": 363
+			},
+			{
+				"id": "meteora-farms",
+				"status": "succeeded",
+				"duration": 544
+			},
+			{
+				"id": "meteora-dlmm-positions",
+				"status": "succeeded",
+				"duration": 469
+			},
+			{
+				"id": "meteora-dlmm-vaults",
+				"status": "succeeded",
+				"duration": 470
+			},
+			{
+				"id": "streamflow-vesting",
+				"status": "succeeded",
+				"duration": 589
+			},
+			{
+				"id": "parcl-deposits",
+				"status": "succeeded",
+				"duration": 704
+			},
+			{
+				"id": "parcl-margin",
+				"status": "succeeded",
+				"duration": 469
+			},
+			{
+				"id": "parcl-staking",
+				"status": "succeeded",
+				"duration": 469
+			},
+			{
+				"id": "pyth-staking",
+				"status": "succeeded",
+				"duration": 476
+			},
+			{
+				"id": "circuit-deposits",
+				"status": "succeeded",
+				"duration": 472
+			},
+			{
+				"id": "flash-perpetuals",
+				"status": "succeeded",
+				"duration": 472
+			},
+			{
+				"id": "flash-stake",
+				"status": "succeeded",
+				"duration": 509
+			},
+			{
+				"id": "bonkrewards-staking",
+				"status": "succeeded",
+				"duration": 464
+			},
+			{
+				"id": "accessprotocol-staking",
+				"status": "succeeded",
+				"duration": 466
+			},
+			{
+				"id": "genesysgo-staking",
+				"status": "succeeded",
+				"duration": 467
+			},
+			{
+				"id": "aurory-staking",
+				"status": "succeeded",
+				"duration": 484
+			},
+			{
+				"id": "armada-staking-program",
+				"status": "succeeded",
+				"duration": 593
+			},
+			{
+				"id": "staratlas-lockers",
+				"status": "succeeded",
+				"duration": 498
+			},
+			{
+				"id": "staratlas-staking",
+				"status": "succeeded",
+				"duration": 420
+			},
+			{
+				"id": "tulip-deposits",
+				"status": "succeeded",
+				"duration": 572
+			},
+			{
+				"id": "phoenix-positions",
+				"status": "succeeded",
+				"duration": 420
+			},
+			{
+				"id": "uxd-staking",
+				"status": "succeeded",
+				"duration": 422
+			},
+			{
+				"id": "banx-staking",
+				"status": "succeeded",
+				"duration": 426
+			},
+			{
+				"id": "banx-loans",
+				"status": "succeeded",
+				"duration": 424
+			},
+			{
+				"id": "banx-offers",
+				"status": "succeeded",
+				"duration": 417
+			},
+			{
+				"id": "nosana-staking",
+				"status": "succeeded",
+				"duration": 469
+			},
+			{
+				"id": "jito-airdrop",
+				"status": "succeeded",
+				"duration": 447
+			},
+			{
+				"id": "magiceden-escrow",
+				"status": "succeeded",
+				"duration": 465
+			},
+			{
+				"id": "clone-deposits",
+				"status": "succeeded",
+				"duration": 465
+			},
+			{
+				"id": "sandglass-deposit",
+				"status": "succeeded",
+				"duration": 420
+			},
+			{
+				"id": "bonfida-offers",
+				"status": "succeeded",
+				"duration": 461
+			},
+			{
+				"id": "bonfida-airdrop",
+				"status": "succeeded",
+				"duration": 1449
+			},
+			{
+				"id": "whalesmarket-deposit",
+				"status": "succeeded",
+				"duration": 421
+			},
+			{
+				"id": "moonwalk-games",
+				"status": "succeeded",
+				"duration": 422
+			},
+			{
+				"id": "citrus-loans",
+				"status": "succeeded",
+				"duration": 422
+			},
+			{
+				"id": "sharky-loans",
+				"status": "succeeded",
+				"duration": 424
+			},
+			{
+				"id": "sanctum-airdrop",
+				"status": "succeeded",
+				"duration": 474
+			},
+			{
+				"id": "allbridge-positions",
+				"status": "succeeded",
+				"duration": 480
+			},
+			{
+				"id": "famousfoxfederation-tokenmarket",
+				"status": "succeeded",
+				"duration": 419
+			},
+			{
+				"id": "famousfoxfederation-staking",
+				"status": "succeeded",
+				"duration": 421
+			},
+			{
+				"id": "nxfinance-positions",
+				"status": "succeeded",
+				"duration": 454
+			},
+			{
+				"id": "nxfinance-lend-positions",
+				"status": "succeeded",
+				"duration": 478
+			},
+			{
+				"id": "picasso-unstaking-positions",
+				"status": "succeeded",
+				"duration": 90
+			},
+			{
+				"id": "quarry-positions",
+				"status": "succeeded",
+				"duration": 1100
+			}
+		],
+		"value": 1237.0067657166248,
+		"elements": [
+		],
+		"tokenInfo": {
+			"solana": {
+				"EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v": {
+					"networkId": "solana",
+					"address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+					"decimals": 6,
+					"name": "USD Coin",
+					"symbol": "USDC",
+					"extensions": {
+						"coingeckoId": "usd-coin"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v.webp"
+				},
+				"SENDdRQtYMWaQrBroBrJ2Q53fgVuq95CV9UPGEvpCxa": {
+					"networkId": "solana",
+					"address": "SENDdRQtYMWaQrBroBrJ2Q53fgVuq95CV9UPGEvpCxa",
+					"decimals": 6,
+					"name": "Send",
+					"symbol": "SEND",
+					"extensions": {
+						"coingeckoId": "send-2"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/SENDdRQtYMWaQrBroBrJ2Q53fgVuq95CV9UPGEvpCxa.webp"
+				},
+				"Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB": {
+					"networkId": "solana",
+					"address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+					"decimals": 6,
+					"name": "USDT",
+					"symbol": "USDT",
+					"extensions": {
+						"coingeckoId": "tether"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB.webp"
+				},
+				"ADTv1dri1ymmQjndQPMsmWUwcWbfvPS7siyj7V7EFuP5": {
+					"networkId": "solana",
+					"address": "ADTv1dri1ymmQjndQPMsmWUwcWbfvPS7siyj7V7EFuP5",
+					"decimals": 9,
+					"name": "ADTv1",
+					"symbol": "ADTv1",
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/ADTv1dri1ymmQjndQPMsmWUwcWbfvPS7siyj7V7EFuP5.webp"
+				},
+				"7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs": {
+					"networkId": "solana",
+					"address": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
+					"decimals": 8,
+					"name": "Ether (Portal)",
+					"symbol": "ETH",
+					"extensions": {
+						"coingeckoId": "ethereum-wormhole"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs.webp"
+				},
+				"7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU": {
+					"networkId": "solana",
+					"address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+					"decimals": 9,
+					"name": "Samoyed Coin",
+					"symbol": "SAMO",
+					"extensions": {
+						"coingeckoId": "samoyedcoin"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU.webp"
+				},
+				"2emYMetySwE7Xh6qrG1AwAQ3TDvrLkUSpSZ5AjcWCc7B": {
+					"networkId": "solana",
+					"address": "2emYMetySwE7Xh6qrG1AwAQ3TDvrLkUSpSZ5AjcWCc7B",
+					"decimals": 6,
+					"name": "Lorm The Worm",
+					"symbol": "L",
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2emYMetySwE7Xh6qrG1AwAQ3TDvrLkUSpSZ5AjcWCc7B.webp"
+				},
+				"3Gjckk5jXnJffBruUS2EEYhpiDEN6z5TPXLkFVHkSkkg": {
+					"networkId": "solana",
+					"address": "3Gjckk5jXnJffBruUS2EEYhpiDEN6z5TPXLkFVHkSkkg",
+					"decimals": 6,
+					"name": "IMARO",
+					"symbol": "IMARO",
+					"extensions": {
+						"coingeckoId": "imaro"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3Gjckk5jXnJffBruUS2EEYhpiDEN6z5TPXLkFVHkSkkg.webp"
+				},
+				"ErbakSHZWeLnq1hsqFvNz8FvxSzggrfyNGB6TEGSSgNE": {
+					"networkId": "solana",
+					"address": "ErbakSHZWeLnq1hsqFvNz8FvxSzggrfyNGB6TEGSSgNE",
+					"decimals": 5,
+					"name": "Founders Wif Abs",
+					"symbol": "FABS",
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/ErbakSHZWeLnq1hsqFvNz8FvxSzggrfyNGB6TEGSSgNE.webp"
+				},
+				"CKfatsPMUf8SkiURsDXs7eK6GWb4Jsd6UDbs7twMCWxo": {
+					"networkId": "solana",
+					"address": "CKfatsPMUf8SkiURsDXs7eK6GWb4Jsd6UDbs7twMCWxo",
+					"decimals": 5,
+					"name": "BonkEarn",
+					"symbol": "BERN",
+					"extensions": {
+						"coingeckoId": "bonkearn"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CKfatsPMUf8SkiURsDXs7eK6GWb4Jsd6UDbs7twMCWxo.webp"
+				},
+				"CETES7CKqqKQizuSN6iWQwmTeFRjbJR6Vw2XRKfEDR8f": {
+					"networkId": "solana",
+					"address": "CETES7CKqqKQizuSN6iWQwmTeFRjbJR6Vw2XRKfEDR8f",
+					"decimals": 6,
+					"name": "Cetes",
+					"symbol": "CETES",
+					"extensions": {
+						"coingeckoId": "cetes"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CETES7CKqqKQizuSN6iWQwmTeFRjbJR6Vw2XRKfEDR8f.webp"
+				},
+				"DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263": {
+					"networkId": "solana",
+					"address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+					"decimals": 5,
+					"name": "Bonk",
+					"symbol": "Bonk",
+					"extensions": {
+						"coingeckoId": "bonk"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263.webp"
+				},
+				"HRzN8zrPp6HT8nmHoRrDpGbhVnFbbya5cMzaVGWVpump": {
+					"networkId": "solana",
+					"address": "HRzN8zrPp6HT8nmHoRrDpGbhVnFbbya5cMzaVGWVpump",
+					"decimals": 6,
+					"name": "Baby Bitcoin",
+					"symbol": "BEBE",
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/HRzN8zrPp6HT8nmHoRrDpGbhVnFbbya5cMzaVGWVpump.webp"
+				},
+				"Doggoyb1uHFJGFdHhJf8FKEBUMv58qo98CisWgeD7Ftk": {
+					"networkId": "solana",
+					"address": "Doggoyb1uHFJGFdHhJf8FKEBUMv58qo98CisWgeD7Ftk",
+					"decimals": 5,
+					"name": "DOGGO",
+					"symbol": "DOGGO",
+					"extensions": {
+						"coingeckoId": "doggo"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Doggoyb1uHFJGFdHhJf8FKEBUMv58qo98CisWgeD7Ftk.webp"
+				},
+				"METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m": {
+					"networkId": "solana",
+					"address": "METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m",
+					"decimals": 6,
+					"name": "Metaplex Token",
+					"symbol": "MPLX",
+					"extensions": {
+						"coingeckoId": "metaplex"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/METAewgxyPbgwsseH8T16a39CQ5VyVxZi9zXiDPY18m.webp"
+				},
+				"mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So": {
+					"networkId": "solana",
+					"address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+					"decimals": 9,
+					"name": "Marinade staked SOL (mSOL)",
+					"symbol": "mSOL",
+					"extensions": {
+						"coingeckoId": "msol",
+						"indexedTo": [
+							"11111111111111111111111111111111"
+						]
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.webp"
+				},
+				"11111111111111111111111111111111": {
+					"networkId": "solana",
+					"address": "11111111111111111111111111111111",
+					"decimals": 9,
+					"name": "Solana",
+					"symbol": "SOL",
+					"extensions": {
+						"coingeckoId": "solana"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/11111111111111111111111111111111.webp",
+					"tags": [
+						"native"
+					]
+				},
+				"So11111111111111111111111111111111111111112": {
+					"networkId": "solana",
+					"address": "So11111111111111111111111111111111111111112",
+					"decimals": 9,
+					"name": "Wrapped SOL",
+					"symbol": "wSOL",
+					"extensions": {
+						"coingeckoId": "wrapped-solana",
+						"indexedTo": [
+							"11111111111111111111111111111111"
+						]
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/So11111111111111111111111111111111111111112.webp",
+					"tags": [
+						"wnative"
+					]
+				},
+				"bobaM3u8QmqZhY1HwAtnvze9DLXvkgKYk3td3t8MLva": {
+					"networkId": "solana",
+					"address": "bobaM3u8QmqZhY1HwAtnvze9DLXvkgKYk3td3t8MLva",
+					"decimals": 6,
+					"name": "Boba Oppa",
+					"symbol": "BOBAOPPA",
+					"extensions": {
+						"coingeckoId": "boba-oppa"
+					},
+					"logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/bobaM3u8QmqZhY1HwAtnvze9DLXvkgKYk3td3t8MLva.webp"
+				}
+			}
+		}
+	}
+]
